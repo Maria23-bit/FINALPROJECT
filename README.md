@@ -85,7 +85,7 @@ dev_dependencies:
     sdk: flutter
   flutter_lints: ^3.0.0
 
-#** 📥 Installation & Setup
+# 📥 Installation & Setup
 
 ## Prerequisites
 
@@ -339,6 +339,7 @@ Add tests for new features
 ---
 
 *This project was developed as part of the PLP Web Technologies July 2025 Final Project and Deployment assignment.*
+
 
 
 
